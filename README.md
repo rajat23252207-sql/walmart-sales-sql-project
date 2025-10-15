@@ -1,4 +1,4 @@
-# walmat-sales-sql-project
+# walmart-sales-sql-project
 walmart sales database sql analysis 
 
 Project Title: Walmart Sales Data Analysis using SQL
